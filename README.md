@@ -1,4 +1,4 @@
-<img src="banner_github.png" alt="GitHub Banner" width="100%" />
+<img src="banner_github.jpg" alt="GitHub Banner" width="100%" />
 
 <h1 align="center"> Hello World!, I'm Lynx(Ali)</h1>
 <h3 align="center">A Custom Rom Maintainer from Pakistan</h3>
