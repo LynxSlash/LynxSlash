@@ -1,4 +1,4 @@
-<img src="banner_github.png" alt="GitHub Banner" width="60%" />
+<img src="banner_github.png" alt="GitHub Banner" width="90%" />
 
 
 - 🔭 I’m currently working on **Rom Development**
