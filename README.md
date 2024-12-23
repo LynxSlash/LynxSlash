@@ -3,13 +3,11 @@
 
 - 🔭 I’m currently working on **Rom Development**
 
-- 🌱 I’m currently learning **Java,Python**
-
 - 👨‍💻 All of my projects are available at [https://https://t.me/lynx_prjkt](https://https://t.me/lynx_prjkt)
 
 - 💬 Ask me about **Rom Development etc.**
 
 - 📫 How to reach me **ali48akbar58@gmail.com**
 
-- ⚡ Fun fact **I love Kung Fu ;)**
+- ⚡ Fun fact **I love Karate 🥋;)**
 
